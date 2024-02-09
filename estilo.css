@@ -1,0 +1,15 @@
+body{
+    font-family: "Lato",sans-serif;
+    background-color: #e7af37;
+}
+header{
+text-align: center;
+padding: 10px;
+background-color: #d44912;}
+
+li{
+    display: inline-block;
+    padding: 20px;
+    background-color: #fbff05;
+    border-radius: 5px;
+}
